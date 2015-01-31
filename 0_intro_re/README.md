@@ -5,14 +5,14 @@ The purpose of this assignment is to brush up on your assembly language skills. 
 
 This is an great opportunity to get familar with WinDBG and the plethora of options available within it. When your code does not work debug it and use the resources available to get WinDBG set up just how you like it. You can use IDA on the binaries FASM creates to see offsets and other information. Note: FASM modules do not opt into ASLR so the value you see in IDA will be the value you will use in WinDBG. 
 
-The first 4 exercises can be written however you want, meaning that no calling conventions are neccessary and variables can be passed via register. Starting at lesson 4 all programs need to follow the CDECL calling convention meaning variables are passed on the stack and the caller cleans up the stack. This also means you can destroy eax, ecx, edx but must take care to restore the others.
+The first 4 exercises can be written however you want, meaning that no calling conventions are neccessary and variables can be passed via register. Starting at exercise 4 all programs need to follow the CDECL calling convention meaning variables are passed on the stack and the caller cleans up the stack. This also means you can destroy eax, ecx, edx but must take care to restore the others.
 
 ### Prerequisites
 * Windows
 * [FASM](http://www.flatassembler.net/fasmw17121.zip) 
 
-### Lessons
-Work through folders 1-7 and complete the assignments. Only the `write` and `debug` folders are required. None of the `read` folders are required.
+### Exercises
+Work through folders 1-7 and complete the exercises. Only the `write` and `debug` folders are required. None of the `read` folders are required.
 
 * 1_basic_fasm: some background to get familiar with FASM
 * 2_branching: skip question 2
