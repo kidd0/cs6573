@@ -44,7 +44,7 @@ Finally, all students are required to participate in a capture the flag competit
 * http://plaidctf.com/
 * Others at: https://ctftime.org/event/list/upcoming
 
-Students are allowed only two absences per semester. Students will miss considerable in-class discussion and instruction if they miss class, since the class is delivered in an inverted lecture format (lectures on video at home).
+Students are allowed only two absences per semester. Students will miss considerable in-class discussion and instruction if they miss class, since the class is delivered in an inverted lecture format.
 
 ## Grading
 * All assignments count equally towards 90% of your grade.
@@ -54,7 +54,7 @@ Students are allowed only two absences per semester. Students will miss consider
 * There are no exams.
 
 ### Assignments
-1.	Binary bomb lab, due in class 2
+1.	Reversing lab, due in class 2
 2.	Identify exploit mitigations, due in class 3
 3.	Analyze & exploit ActiveX vulnerabilities, due in class 4
 4.	Analyze Aurora vulnerability, due in class 5
