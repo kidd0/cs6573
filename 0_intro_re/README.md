@@ -12,10 +12,10 @@ The first 4 exercises can be written however you want, meaning that no calling c
 * [FASM](http://www.flatassembler.net/fasmw17121.zip) 
 
 ### Lessons
-Only the `write` and `debug` code folders are required. None of the `read` code sections are required. Work through folders 1-6 and complete the assignments.
+Work through folders 1-7 and complete the assignments. Only the `write` and `debug` folders are required. None of the `read` folders are required.
 
 * 1_basic_fasm: some background to get familiar with FASM
-* 2_branching: you can skip question 2 (the one about Fibonacci)
+* 2_branching: skip question 2
 * 3_signed_operations: only do question 0
 * 4_signed_memory: only do question 0
 * 5_call_ret: only do questions 0 and 2
