@@ -1,0 +1,6 @@
+C Standard Library
+====================
+
+Implement these standard library functions:
+* strlen, strchr, strcmp, strset
+* memcpy, memset
